@@ -1,0 +1,19 @@
+turkish;
+calmayin cok ugrastim
+
+buildlemek icin hile klasorune gidin ordaki sln dosyasini acip buildleyin
+injectorde ayni sekilde yapin
+
+eger yapamazsaniz hazir halini paylastim release bolumunden indirin
+
+
+
+--
+
+english;
+don't steal, i tried too hard
+
+to build, go to the cheat folder and open the sln file there and build
+do the injector in the same way
+
+if you can't, download the ready version from the I shared release section
